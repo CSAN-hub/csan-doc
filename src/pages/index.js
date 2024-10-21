@@ -6,6 +6,8 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import DocusaurusLogoWithKeytar from '@site/static/img/csan.svg';
+
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -20,7 +22,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Je découvre !
           </Link>
         </div>
       </div>
@@ -36,6 +38,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
+        <DocusaurusLogoWithKeytar title="Docusaurus Logo" className="csan" />;
         <HomepageFeatures />
       </main>
     </Layout>
