@@ -69,7 +69,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'About CSAN',
+            label: 'Documentation',
           },
           {
             href: 'https://github.com/CSAN-hub/csan-doc',
@@ -85,7 +85,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'About CSAN',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],

@@ -1,0 +1,8 @@
+{
+  "label": "Déploiement",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Déployer le projet CSAN sur votre infrastructure."
+  }
+}

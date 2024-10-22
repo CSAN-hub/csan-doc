@@ -1,0 +1,8 @@
+{
+  "label": "Partenaires",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Les partenaires du projet CSAN."
+  }
+}
