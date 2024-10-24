@@ -8,9 +8,7 @@ Comment signer votre image afin de garantir son authenticité.
 ## Utilisation de Cosign
 
 :::note
-
 Pré requis : vous devez avoir cosign installé et généré une paire de clé
-
 :::
 
 En local vous devez signer l'image présente sur CSAN avec votre clé.
