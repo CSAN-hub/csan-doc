@@ -11,9 +11,9 @@ This document details the Access Policy applied to the CSAN platform.
 Access to the services of the CSAN platform is open to users from the ESR community.
 
 * These users in particular include entities:
-    • Focusing primarily on research, experimental development and innovation, including the application of their results in the practice;
-    • Focusing primarily on education and dissemination of education, culture and prosperity;
-    • Other entities with activities in the public interest.
+    * Focusing primarily on research, experimental development and innovation, including the application of their results in the practice;
+    * Focusing primarily on education and dissemination of education, culture and prosperity;
+    * Other entities with activities in the public interest.
 
 * Other entities may be granted access to the CSAN platform for the purpose of scientific, research, educational and innovation projects. In that case, the entity concerned shall ensure that the CSAN platform is used in relation to such activities only.
 
@@ -24,21 +24,22 @@ The access to the CSAN platform cannot be legally claimed.
 # Privacy Policy
 
 ##  Name and address of the data controller
-Institut Pluridisciplinaire Hubert Curien
-23 rue du loess - BP28
-67037 Strasbourg cedex 2
-FRANCE
-Tel: +33 (0)3 88 10 66 55
-Web: www.iphc.cnrs.fr
+Institut Pluridisciplinaire Hubert Curien\
+23 rue du loess - BP28\
+67037 Strasbourg cedex 2\
+FRANCE\
+Tel: +33 (0)3 88 10 66 55\
+Web: www.iphc.cnrs.fr\
 
 ## Name and address of the data protection officer
-Eric Kieffer ´
-Institut Pluridisciplinaire Hubert Curien
-23 rue du loess - BP28
-67037 Strasbourg cedex 2
-FRANCE
-Tel: +33 (0)3 88 10 66 55
-E-Mail: contact.rgpd@iphc.cnrs.fr
+Eric Kieffer\
+Institut Pluridisciplinaire Hubert Curien\
+23 rue du loess - BP28\
+67037 Strasbourg cedex 2\
+FRANCE\
+Tel: +33 (0)3 88 10 66 55\
+E-Mail: contact.rgpd@iphc.cnrs.fr\
+
 You may, at any time, contact our Data Protection Officer directly with any questions or suggestions
 concerning data protection at our site.
 
@@ -63,8 +64,8 @@ accessing system, (3) the website from which an accessing system reaches our web
 and information that may be used in the event of attacks on our information technology systems.
 While you use the CSAN platform and any related service that is instrumented through it, i.e. the
 repository Services, several categories of data are stored:
-• The data you submit to CSAN through the webapp or the API, e.g. by uploading an image.
-• Information about the performed operations on the CSAN platform. They are stored by Harbor
+* The data you submit to CSAN through the webapp or the API, e.g. by uploading an image.
+* Information about the performed operations on the CSAN platform. They are stored by Harbor
 in logfiles and are important to help us to determin the cause of any issue you may encounter or
 to detect security incidents.
 All of this data will be deleted after appropriate retention periods.
@@ -86,27 +87,27 @@ with legal requirements.
 
 ## Your Rights
 You have the following rights in relation to your Personal Data:
-• Right of access: You have the right to request information about the data we store about you and
+* Right of access: You have the right to request information about the data we store about you and
 any processing of such data.
-• Right of rectification: If your Personal Data is incorrect, you are entitled to have it rectified or
+* Right of rectification: If your Personal Data is incorrect, you are entitled to have it rectified or
 completed.
-• Right of erasure: You may ask us to delete or remove your your Personal Data and we will do so in
+* Right of erasure: You may ask us to delete or remove your your Personal Data and we will do so in
 some circumstances, such as where we no longer need it (we may not delete your data when other
 constraint prevail over your right to deletion).
-• Right to restrict processing: You may ask us to restrict the processing of your Personal Data in
+* Right to restrict processing: You may ask us to restrict the processing of your Personal Data in
 certain circumstances, such as where you contest the accuracy of that Personal Data or object to
 us processing it. We will do it as long as we are not constraint by legal obligations and it does not
 affect the usability of the CSAN service.
-• Right to data portability: You have the right to obtain your Personal Data from us that you
+* Right to data portability: You have the right to obtain your Personal Data from us that you
 consented to give us. We will give you your Personal Data in a strutured, commonly used and
 machine-readable format.
-• Right to object: You may ask us at any time to stop processing your Personal Data, and we will do
+* Right to object: You may ask us at any time to stop processing your Personal Data, and we will do
 so if we are relying on a legitimate interest to process your Personal Data - unless we demonstrate
 compelling legitimate grounds for the processing.
-• Right to withdraw consent: If we rely on your consent to process your Personal Data, you have the
+* Right to withdraw consent: If we rely on your consent to process your Personal Data, you have the
 right to withdraw that consent at any time. This will not affect the lawfulness of processing based
 on your prior consent.
-• Right to lodge a complaint with the data protection authority: If you have a concern about our
+* Right to lodge a complaint with the data protection authority: If you have a concern about our
 privacy practices, including the way we have handled your Personal Data, you can report it to the
 data protection authority that is authorized to hear those concerns.
 In order to exercise any of these rights, please contact the data controller at the above mentioned
