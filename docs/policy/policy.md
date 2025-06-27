@@ -24,21 +24,10 @@ The access to the CSAN platform cannot be legally claimed.
 # Privacy Policy
 
 ##  Name and address of the data controller
-Institut Pluridisciplinaire Hubert Curien\
-23 rue du loess - BP28\
-67037 Strasbourg cedex 2\
-FRANCE\
-Tel: +33 (0)3 88 10 66 55\
-Web: www.iphc.cnrs.fr\
+TBD
 
 ## Name and address of the data protection officer
-Eric Kieffer\
-Institut Pluridisciplinaire Hubert Curien\
-23 rue du loess - BP28\
-67037 Strasbourg cedex 2\
-FRANCE\
-Tel: +33 (0)3 88 10 66 55\
-E-Mail: contact.rgpd@iphc.cnrs.fr\
+TBD
 
 You may, at any time, contact our Data Protection Officer directly with any questions or suggestions
 concerning data protection at our site.
