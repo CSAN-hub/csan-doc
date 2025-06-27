@@ -8,16 +8,20 @@ sidebar_position: 2
 This document details the Access Policy applied to the CSAN platform.
 
 ## Access Policy
-Access to the services of the CSAN platform is open to users from the ESR community.
+Access to the services of the CSAN platform is open to users from the french research and high-education community (ESR).
 
 * These users in particular include entities:
     * Focusing primarily on research, experimental development and innovation, including the application of their results in the practice;
     * Focusing primarily on education and dissemination of education, culture and prosperity;
     * Other entities with activities in the public interest.
 
-* Other entities may be granted access to the CSAN platform for the purpose of scientific, research, educational and innovation projects. In that case, the entity concerned shall ensure that the CSAN platform is used in relation to such activities only.
+* Other entities may be granted access to the CSAN platform for the purpose of scientific, research, 
+educational and innovation projects. In that case, the entity concerned shall ensure that the CSAN 
+platform is used in relation to such activities only.
 
-If the requested resources have been funded by a project that allow providing these resources to that user, access is free of charge. Otherwise, a financial contribution proportional to the amount of resources will be requested from the user. The use of the CSAN platform resources is arbitrated by the steering committee.
+If the requested resources have been funded by a project that allow providing these resources to that 
+user, access is free of charge. Otherwise, a financial contribution proportional to the amount of 
+resources will be requested from the user. The use of the CSAN platform resources is arbitrated by the steering committee.
 
 The access to the CSAN platform cannot be legally claimed.
 
@@ -33,7 +37,8 @@ You may, at any time, contact our Data Protection Officer directly with any ques
 concerning data protection at our site.
 
 ## Purpose of this service
-A container image registry based on Harbor, enabling researchers to manage, distribute, and collaborate on container-based workflows in a federated environment. Access is exclusively managed via EGI Check-in.
+A container image registry based on Harbor, enabling researchers to manage, distribute, and collaborate 
+on container-based workflows in a federated environment. Access is exclusively managed via EGI Check-in.
 
 ## Cookies
 The CSAN repository uses cookies. Cookies are text files that are stored in a computer
@@ -66,10 +71,13 @@ The collected data is used to:
 - Comply with academic infrastructure standards and requirements
 
 ## Sharing and Disclosure
-Personal data is not shared with third parties outside the infrastructure. If exceptionally necessary, data will only be transferred to entities within the EU/EEA or countries with adequacy decisions by the European Commission.
+Personal data is not shared with third parties outside the infrastructure. If exceptionally necessary, 
+data will only be transferred to entities within the EU/EEA or countries with adequacy decisions by 
+the European Commission.
 
 ## Routine erasure and blocking of personal data
-Users can contact the CSAN DPO at dpo@csan.fr to exercise their rights. For data originating from your home institution (identity attributes), please contact your institution’s IT helpdesk.
+Users can contact the CSAN DPO at dpo@csan.fr to exercise their rights. For data originating from your 
+home institution (identity attributes), please contact your institution’s IT helpdesk.
 
 ## Your Rights
 You have the following rights in relation to your Personal Data:
@@ -84,11 +92,13 @@ constraint prevail over your right to deletion).
 certain circumstances, such as where you contest the accuracy of that Personal Data or object to
 us processing it. We will do it as long as we are not constraint by legal obligations and it does not
 affect the usability of the CSAN service.
-* Right to data portability: Upon request, users may obtain a machine-readable export of their data (e.g., access logs, project affiliations). This applies only to data directly provided to CSAN.
+* Right to data portability: Upon request, users may obtain a machine-readable export of their data 
+(e.g., access logs, project affiliations). This applies only to data directly provided to CSAN.
 * Right to object: You may ask us at any time to stop processing your Personal Data, and we will do
 so if we are relying on a legitimate interest to process your Personal Data - unless we demonstrate
 compelling legitimate grounds for the processing.
-* Right to withdraw consent: If processing is based on consent, it may be withdrawn at any time by contacting dpo@csan.fr. Withdrawal may result in loss of access to the service.
+* Right to withdraw consent: If processing is based on consent, it may be withdrawn at any time by 
+contacting dpo@csan.fr. Withdrawal may result in loss of access to the service.
 * Right to lodge a complaint with the data protection authority: If you have a concern about our
 privacy practices, including the way we have handled your Personal Data, you can report it to the
 data protection authority that is authorized to hear those concerns.
@@ -101,8 +111,8 @@ retention period. After expiration of that period, the corresponding data is rou
 it is no longer necessary for the fulfillment of the contract or the initiation of a contract.
 
 ## Code of Conduct Compliance
-CSAN adheres to the GEANT Data Protection Code of Conduct for Service Providers in the research and education sector.
-More information: https://wiki.refeds.org/display/CODE/
+CSAN adheres to the GEANT Data Protection Code of Conduct for Service Providers in the research and 
+education sector. More information: https://wiki.refeds.org/display/CODE/
 
 ## Security
 We maintain reasonable and appropriate security measures to protect Personal Data from loss, misuse,
