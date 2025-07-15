@@ -28,10 +28,14 @@ The access to the CSAN platform cannot be legally claimed.
 # Privacy Policy
 
 ##  Name and address of the data controller
-TBD
+CNRS
+3 rue Michel-Ange
+75016 PARIS
 
 ## Name and address of the data protection officer
-TBD
+DPD (déléguée à la protection des données)
+17, rue notre Dame des Pauvres
+54 519 VANDOEUVRE LÈS NANCY Cedex
 
 You may, at any time, contact our Data Protection Officer directly with any questions or suggestions
 concerning data protection at our site.
