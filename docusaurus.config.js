@@ -104,6 +104,9 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/CSAN-hub/csan-doc',
               },
+              {
+                label: 'Tchap',
+                href: 'https://tchap.gouv.fr/#/room/!nhDThofHQjEkwBQfqs:agent.agriculture.tchap.gouv.fr?via=agent.agriculture.tchap.gouv.fr',
             ],
           },
         ],
