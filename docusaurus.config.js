@@ -107,6 +107,7 @@ const config = {
               {
                 label: 'Tchap',
                 href: 'https://tchap.gouv.fr/#/room/!nhDThofHQjEkwBQfqs:agent.agriculture.tchap.gouv.fr?via=agent.agriculture.tchap.gouv.fr',
+              },
             ],
           },
         ],
