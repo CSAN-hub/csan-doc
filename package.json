@@ -13,8 +13,8 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
-  "overrides": {
-    "webpack": "5.105.4"
+ "overrides": {
+    "webpackbar": "^7.0.0"
   },
   "dependencies": {
     "@docusaurus/core": "3.5.2",
